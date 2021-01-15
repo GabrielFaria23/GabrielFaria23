@@ -12,3 +12,7 @@ Currently studying about Spring Boot and Angular, which are two frameworks that 
 - 🌐 HTML5 | CSS3
 - ⚙️ Git | Github
 - 🔧 Visual Studio Code
+
+## **📞 Contact**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnunesfaria/)](https://www.linkedin.com/in/gabrielnunesfaria/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=red&link=gabrielfariapta01@gmail.com)](gabrielfariapta01@gmail.com)
