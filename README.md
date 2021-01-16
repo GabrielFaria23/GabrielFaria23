@@ -13,6 +13,10 @@ Currently studying about Spring Boot and Angular, which are two frameworks that 
 - ⚙️ Git | Github
 - 🔧 Visual Studio Code
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielFaria23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFaria23&layout=compact&card_width=400&card_height=400)](https://github.com/anuraghazra/github-readme-stats)
+
 ## **📞 Contact**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnunesfaria/)](https://www.linkedin.com/in/gabrielnunesfaria/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=red&link=https://gabrielfariapta01@gmail.com)](https://gabrielfariapta01@gmail.com)
