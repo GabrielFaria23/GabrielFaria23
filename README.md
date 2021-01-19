@@ -14,9 +14,17 @@ Currently studying about Spring Boot and Angular, which are two frameworks that 
 - 🔧 Visual Studio Code
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielFaria23&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFaria23&layout=compact&card_width=350&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/GabrielFaria23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaraujstein&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaraujstein&theme=buefy&layout=compact" />
+</a>
 
 ## **📞 Contact**
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielnunesfaria/)](https://www.linkedin.com/in/gabrielnunesfaria/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail&logoColor=red&link=https://gabrielfariapta01@gmail.com)](https://gabrielfariapta01@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielnunesfaria/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Faria-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:gabrielnunesfariapta@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-gabrielnunesfariapta@hotmail.com-blue?style=flat-square&logo=appveyor">
+  </a>
+</p>
