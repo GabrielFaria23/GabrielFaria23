@@ -15,8 +15,8 @@ Currently studying about Spring Boot and Angular, which are two frameworks that 
 
 
 <a href="https://github.com/GabrielFaria23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaraujstein&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaraujstein&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFaria23&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFaria23&theme=buefy&layout=compact" />
 </a>
 
 ## **📞 Contact**
