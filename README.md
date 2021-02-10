@@ -21,6 +21,9 @@ Currently studying about Spring Boot and Angular, which are two frameworks that 
 
 ## **📞 Contact**
 <p align="center">
+  <a href="https://gabrielfaria.herokuapp.com/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-gabrielfaria.herokuapp.app-blue?style=flat-square&logo=google-chrome">
+  </a>
   <a href="https://www.linkedin.com/in/gabrielnunesfaria/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Faria-blue?style=flat-square&logo=linkedin">
   </a>
