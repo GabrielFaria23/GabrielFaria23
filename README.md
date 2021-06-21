@@ -1,17 +1,19 @@
-### Hi there, I'm Gabriel 👋
+### Olá, Eu sou o Gabriel 👋
 
 <!--
 **GabrielFaria23/GabrielFaria23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 ## **:man_technologist: About me**
-I am 22 years old, I am an outgoing person, I like to make new friends, learn about new technologies, improve my knowledge in technologies I already know, exchange ideas with more experienced people, I believe this is essential no matter what you want to learn and besides, I have been studying English for about 10 months and graduated in Computer Science at the University Center of Minas Gerais - UNIFOR-MG, in late 2019. 
+Eu tenho 23 anos, sou uma pessoa estrovertida e gosto muito de fazer novas amizades. Gosto muito de trocar conhecimento com outras pessoas e acredito que essa é uma das melhores formas de realmente aprender sobre algo. Sempre que possivel tento ajudar meu colegas pois além de ser uma maneira de ajudar outra pessoa também ajuda muito a fixar e aprimorar os conhecimentos sobre o que se esta ensinando.
 
-Currently studying about Spring Boot and Angular, which are two frameworks that I like very much because they are practical and make the development of the project very easy, especially in the configuration part. I have been betting on these technologies, because besides being technologies that I love to work with, they also have great demand in the job market. I hope to get a job opportunity soon and be able to professionalize and learn even more about these frameworks.
+Me graduei em Ciência da Computação pelo Centro Universitário de Minas Gerais e na faculdade tive meu primeiro contato com programação, aprendi um pouco sobre linguagens como C, C++, python e Java e Frameworks como Spring Boot e Angular. Há aproximadamente um ano comecei a focar meus estudos em Spring Boot e Angular, que são 2 frameworks que sempre gostei de trabalhar. Ultimamente dedico grande parte do meu tempo estudando mais focado em Java e Spring Boot com o objetivo de conseguir uma oportunidade como desenvolvedor back-end mas também estou disponivel para oportunidades fullstack SpringBoot/Angular. Como hobby gosto muito de aprender sobre novos idiomas como inglês que estudo a mais ou menos 1 ano e estou começando a aprender francês além disso gosto muito de jogar jogos multiplayer.
 
 ## **🧰 Technical knowledge**
-- 💻 Java | Typescript
+- 💻 Java 8,11 | Typescript
 - 🌐 HTML5 | CSS3
 - ⚙️ Git | Github
 - 🔧 Visual Studio Code
+- 🔧 IntelliJ IDEA
+- 📖 Inglês (Intermidiario)/ Francês (Começando a aprender) 
 
 
 <a href="https://github.com/GabrielFaria23">
