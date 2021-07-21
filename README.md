@@ -26,7 +26,7 @@ Ultimamente dedico grande parte do meu tempo estudando mais focado em Java e Spr
 ## **📞 Contact**
 <p align="center">
   <a href="https://gabrielfaria23.github.io/gabriel_fariaportfolio/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-gabrielfaria.herokuapp.app-blue?style=flat-square&logo=google-chrome">
+    <img alt="Website" src="https://img.shields.io/badge/Website-gabrielfaria23.github.io-blue?style=flat-square&logo=google-chrome">
   </a>
   <a href="https://www.linkedin.com/in/gabrielnunesfaria/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Faria-blue?style=flat-square&logo=linkedin">
