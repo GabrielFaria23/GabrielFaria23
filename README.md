@@ -11,6 +11,8 @@ Atualmente sou Desenvolvedor de Software na Framework Digital e dedico grande pa
 
 ## **🧰 Conhecimentos técnicos**
 - 💻 Java 8,11 | Typescript
+- 📚 SQL Server | PostgreSQL | Mysql
+- ⏩ Scrum
 - 🌐 HTML5 | CSS3
 - ⚙️ Git | Github
 - 🔧 Visual Studio Code
