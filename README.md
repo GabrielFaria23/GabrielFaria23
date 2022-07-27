@@ -3,11 +3,11 @@
 <!--
 **GabrielFaria23/GabrielFaria23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 ## **:man_technologist: Sobre mim**
-Eu tenho 23 anos, sou uma pessoa estrovertida e gosto muito de fazer novas amizades. Gosto muito de trocar conhecimento com outras pessoas e acredito que essa é uma das melhores formas de realmente aprender sobre algo. Sempre que possivel tento ajudar meu colegas pois além de ser uma maneira de ajudar outra pessoa também ajuda muito a fixar e aprimorar os conhecimentos sobre o que se esta ensinando.
+Eu tenho 24 anos, sou uma pessoa estrovertida e gosto muito de fazer novas amizades. Gosto muito de trocar conhecimento com outras pessoas e acredito que essa é uma das melhores formas de realmente aprender sobre algo. Sempre que possivel tento ajudar meu colegas pois além de ser uma maneira de ajudar outra pessoa também ajuda muito a fixar e aprimorar os conhecimentos sobre o que se esta ensinando.
 
-Me graduei em Ciência da Computação pelo Centro Universitário de Minas Gerais e na faculdade tive meu primeiro contato com programação, aprendi um pouco sobre linguagens como C, C++, python e Java e Frameworks como Spring Boot e Angular. Há aproximadamente um ano comecei a focar meus estudos em Spring Boot e Angular, que são 2 frameworks que sempre gostei de trabalhar. 
+Me graduei em Ciência da Computação pelo Centro Universitário de Minas Gerais e na faculdade tive meu primeiro contato com programação, aprendi um pouco sobre linguagens como C, C++, python e Java e Frameworks como Spring Boot e Angular. Há aproximadamente um ano atuo profissionalmente como desenvolvedor de software back-end utilizando principalmente a linguagem java e o framework Spring Boot. 
 
-Ultimamente dedico grande parte do meu tempo estudando mais focado em Java e Spring Boot com o objetivo de conseguir uma oportunidade como desenvolvedor back-end mas também estou disponivel para oportunidades fullstack SpringBoot/Angular. Como hobby gosto muito de aprender sobre novos idiomas como inglês que estudo a mais ou menos 1 ano e estou começando a aprender francês além disso gosto muito de jogar jogos multiplayer.
+Atualmente sou Desenvolvedor de Software na Framework Digital e dedico grande parte do meu tempo focado no trabalho e aprimorando minhas habilidades nas stacks que utilizo atravéz de cursos e artigos. Como hobby gosto muito de aprender sobre novos idiomas como inglês que estudo a mais ou menos 2 anos. Além disso gosto muito de passar meu tempo com meus familiares e amigos e me divertir com jogos multiplayer.
 
 ## **🧰 Conhecimentos técnicos**
 - 💻 Java 8,11 | Typescript
